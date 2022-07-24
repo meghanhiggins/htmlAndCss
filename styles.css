@@ -1,3 +1,11 @@
-body {
-    color:aqua;
+.myFirstClass {
+    color:blueviolet;
 }
+#myFirstID {
+color:aquamarine;
+}
+
+div {
+    background-color: beige;
+}
+
